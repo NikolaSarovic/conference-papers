@@ -1,0 +1,34 @@
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\bin\Debug\mysql.data.dll
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CopyComplete
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\Danijel\NastavaETF\TMP\Ispit\Prakticni\20200711\Radovi\II kolokvijum\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Nikola\Desktop\materijali III-g-Ri\TMP\Materijali\vjezbe-rokovi moji\2kolokvijum(snimci)\rokovi IIk\TMP_Pretraga\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Nikola\Desktop\materijali III-g-Ri\TMP\Materijali\vjezbe-rokovi moji\2kolokvijum(snimci)\rokovi IIk\TMP_Pretraga\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Nikola\Desktop\materijali III-g-Ri\TMP\Materijali\vjezbe-rokovi moji\2kolokvijum(snimci)\rokovi IIk\TMP_Pretraga_11_7_2020\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Nikola\Desktop\materijali III-g-Ri\TMP\Materijali\vjezbe-rokovi moji\2kolokvijum(snimci)\rokovi IIk\TMP_Pretraga_11_7_2020\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Nikolaaa\Bitni materijali\Tehnika metoda programiranja\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Nikolaaa\Bitni materijali\Tehnika metoda programiranja\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\bin\Debug\mysql.data.dll
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Nikolaaa\ETF materijali\Tehnika metoda programiranja i grafika\TMP\vjezbe-rokovi moji\2_kolokvijum\rokovi IIk\TMP_Pretraga_11_7_2020 BITAN\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
